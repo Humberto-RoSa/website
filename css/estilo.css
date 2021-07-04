@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#cont {
+    padding: 10px;
+    width: 70%;
+    margin-left: 15%;
+}
+
+#text1 {
+    background-color: #F5FFB1;
+    padding: 15px;
+    margin-top: 80px;
+    margin-bottom: 1px;
+}
+#text2 {
+    background-color: #FFF7B1;
+	padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t3 {
+    background-color: #F5FFB1;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t4 {
+    background-color: #FFF7B1;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t5 {
+    background-color: #F5FFB1;
+    padding: 15px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#t6 {
+    background-color: #FFF7B1;
+    padding: 15px;
+    margin-top: 11px;
+    margin-bottom: -100px;
+}
+#imag {
+	background-color: #FFEC9F;
+	padding: 10px;
+	margin-top: 58px;
+	margin-bottom: -70px;	
+}
+#imag p img {
+	padding-right: -10px;
+	padding-left: 3px;
+	padding-bottom: 10px;
+	padding-top: 0px;
+	float: center;
+}
+#t1 p img {
+    padding-right: 10px;
+    float: right;
+}
+#t2 p img {
+    float: left;
+    padding-left: 10px;
+}
+#t3 p img {
+    float: left;
+    padding-right: 10px;
+}
+#t4 li img {
+    float: right;
+    padding-bottom: 12px;
+    padding-left: 11px;
+}
+#menu {
+	height: 70px;
+	left: 244px;
+	right: 223px;
+    background-color: #FFEC9F;
+    padding: 8px;
+	top: -10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+	position: fixed;
+}
+#text1 p img {
+    float: left;
+    margin-right: 11px;
+}
+#text2 p img {
+    float: right;
+    padding-left: 11px;
+}
